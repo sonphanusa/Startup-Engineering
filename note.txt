@@ -1,0 +1,2 @@
+- balance a tree (red/black tree...)
+- business scaling: the funnel
